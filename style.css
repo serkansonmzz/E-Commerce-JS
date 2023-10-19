@@ -223,7 +223,7 @@ section {
 #list {
   display: flex;
   flex-direction: column;
-  overflow: auto;
+  overflow: auto;/*fazla ekelemede scrool bar çıksın*/
   gap: 30px;
   padding: 10px;
   width: 100%;
